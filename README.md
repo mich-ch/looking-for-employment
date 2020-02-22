@@ -17,5 +17,6 @@ In essence, this program is an agenda. So through some specific options, for exa
     
   2. Send a Message 
       * Private message on an entry
+  > Correct selection is provided from the navigation menu. That is, if the user does not make the right choice, the system warns of its proper use
 
 ## Compile
