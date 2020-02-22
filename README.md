@@ -9,8 +9,8 @@ In essence, this program is an agenda. So through some specific options, for exa
 ## Instructions
 * Initially the program gives the following options to the user
   1. Manage Users
-      * Add
-      * Remove
+      * Add: User registration in the system (name, phone number, email)
+      * Remove: 
       * Show
       * Search
       * Back
