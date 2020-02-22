@@ -16,5 +16,6 @@ In essence, this program is an agenda. So through some specific options, for exa
       * Back: Return to the home menu.
     
   2. Send a Message 
+      * Private message on an entry
 
 ## Compile
