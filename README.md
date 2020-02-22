@@ -9,11 +9,11 @@ In essence, this program is an agenda. So through some specific options, for exa
 ## Instructions
 * Initially the program gives the following options to the user
   1. Manage Users
-    * Add
-    * Remove
-    * Show
-    * Search
-    * Back
+      * Add
+      * Remove
+      * Show
+      * Search
+      * Back
     
   2. Send a Message 
 
